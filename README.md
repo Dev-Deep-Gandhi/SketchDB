@@ -46,13 +46,3 @@ It not only helps you **design schemas visually**, but also:
 - SaaS Builders  
 - Open-source Contributors  
 
----
-
-## 📦 Installation
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/your-username/sketchdb.git
-cd sketchdb
-# Example if using Python
-pip install -r requirements.txt
